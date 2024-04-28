@@ -58,20 +58,20 @@ The program have some constant parameters that can easily changed in `constant.p
 ## Outputs
 
 - With alpha blend
-
-![SIFT](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![ORB](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![Fast](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- SIFT
+![SIFT](/result/hostel_roof_1/alpha_h2/cropped_1.jpg)
+- ORB
+![ORB](/result/hostel_roof_1/alpha_h2/cropped_3.jpg)
+- FAST
+![Fast](/result/hostel_roof_1/alpha_h2/cropped_6.jpg)
 
 - With alpha-feather blend
-
-![SIFT](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![ORB](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![Fast](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- SIFT
+![SIFT](/result/hostel_roof_1/alpha_feather_h2/cropped_1.jpg)
+- ORB
+![ORB](/result/hostel_roof_1/alpha_feather_h2/cropped_3.jpg)
+- FAST
+![Fast](/result/hostel_roof_1/alpha_feather_h2/cropped_6.jpg)
 
 ## Authors
 
