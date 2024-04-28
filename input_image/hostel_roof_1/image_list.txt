@@ -1,0 +1,7 @@
+# filename    focal_length
+h201.jpg  240
+h202.jpg  240
+h203.jpg  240
+h204.jpg  240
+h205.jpg  240
+h206.jpg  240
